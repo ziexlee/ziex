@@ -1,0 +1,12 @@
+{
+  "name": "ziex-agent",
+  "version": "1.0.0",
+  "description": "ai agent 通用人工智能 ai智能体、文件创作、规划、代码、任务执行、命令执行",
+  "license": "ISC",
+  "author": "zieli",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
