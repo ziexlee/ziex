@@ -3,6 +3,7 @@
 </div>
 
 <h1 align="center">zieX · 你的全能本地 AI Agent</h1>
+<div>注册有礼，新用户注册成功时会自动获得 100 万 token。</div>
 
 <p align="center">官网：<a href="http://42.194.243.206">http://42.194.243.206</a> · 版本 v1.0.0 · 支持 OpenAI / 国产模型</p>
 
